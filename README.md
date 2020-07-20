@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hassan Ramadan. An ambitious computer science student, software developer and competitive programmer.
+I'm Hassan Ramadan. An ambitious computer science student, software developer, competitive programmer and system engineering enthusiast.
 
 📫 How to reach me: 
 
