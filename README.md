@@ -1,4 +1,6 @@
-### Hello there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasssan-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="hasssan-ramadan" /> </p>
+
+### Hello there 👋 
 
 This is Hassan Ramadan. An ambitious computer science student, software developer, competitive programmer, and system engineering enthusiast.
 
