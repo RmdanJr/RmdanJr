@@ -1,7 +1,7 @@
 ### Hello there 👋 
 
-This is Hassan Ramadan. Senior computer science student who cares about software engineering principles, self-taught software
-developer, competitive programmer, and technology passionate.
+This is Hassan Ramadan. A computer science graduate who cares about software engineering principles, self-taught software
+developer, competitive programmer, and technology enthusiast.
 
 📫 How to reach me: 
 
